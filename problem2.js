@@ -8,7 +8,7 @@ for(i=0;i<str.length;i++){
 bag1+=str[i];
 }
 
-for(j=str.length-1;j>=0;j++){
+for(j=str.length-1;j>=0;j--){
 bag2+=str[j];
 }
 
